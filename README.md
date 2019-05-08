@@ -1,0 +1,1 @@
+# platform_vendor_ingenic_newton
